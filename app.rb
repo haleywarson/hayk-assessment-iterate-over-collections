@@ -14,3 +14,5 @@ companies = [
 ]
 
 ### Your code below this
+def list_of_strings 
+end
